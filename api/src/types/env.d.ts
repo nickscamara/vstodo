@@ -4,4 +4,5 @@ declare namespace NodeJS {
     GITHUB_CLIENT_ID: string;
     ACCESS_TOKEN_SECRET: string;
   }
+  
 }
